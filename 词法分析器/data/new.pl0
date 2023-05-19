@@ -1,0 +1,19 @@
+var i,j,a(1:10);
+string b;
+float c;
+
+for i := 1 to 10 step 1
+    b := b + "aaa";
+    c := c + 0.5;
+j := 1;
+repeat
+    a(j) := j
+    j := j + 1
+until j := 10;
+var asd1234567890asd = -12345678901;
+
+@
+00hhh
+#$%^
+_asdf
+0.01e-1

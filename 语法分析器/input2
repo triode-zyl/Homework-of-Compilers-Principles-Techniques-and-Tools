@@ -1,0 +1,16 @@
+var i, j, digit(1:10);
+
+procedure init;
+begin
+    procedure a;
+    begin
+        procedure b;
+        begin
+            i := 1;
+        end;
+    end;
+end;
+
+begin
+    
+end.
